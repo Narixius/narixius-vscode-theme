@@ -3,6 +3,11 @@
   "displayName": "narixius-vscode-theme",
   "description": "Just another VSCode dark theme",
   "version": "0.0.1",
+  "publisher": "narixius",
+  "scripts": {
+    "pacakge": "vsce package",
+    "publish": "vsce publish"
+  },
   "author": {
     "name": "Nariman Movaffaghi",
     "url": "https://www.linkedin.com/in/narixius"
