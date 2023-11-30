@@ -2,10 +2,11 @@
   "name": "narixius-vscode-theme",
   "displayName": "narixius-vscode-theme",
   "description": "Just another VSCode dark theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "narixius",
+  "icon": "icons/narixius-theme.png",
   "scripts": {
-    "pacakge": "vsce package",
+    "package": "vsce package",
     "publish": "vsce publish"
   },
   "author": {
@@ -25,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Narixius",
+        "label": "Narixius One Darl",
         "uiTheme": "vs-dark",
-        "path": "./themes/Narixius-color-theme.json"
+        "path": "./themes/Narixius-one-dark-color-theme.json"
       }
     ]
   }
