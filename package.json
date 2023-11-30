@@ -6,7 +6,7 @@
   "publisher": "narixius",
   "icon": "icons/narixius-theme.png",
   "scripts": {
-    "package": "vsce package && vsce publish"
+    "p": "vsce package && vsce publish"
   },
   "author": {
     "name": "Nariman Movaffaghi",
