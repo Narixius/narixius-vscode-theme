@@ -8,6 +8,6 @@ ext install narixius-vscode-theme
 ```
 
 ### Credits
-https://github.com/faceair/vscode-ayu-onedark
-https://github.com/teabyii/vscode-ayu
-https://github.com/Binaryify/OneDark-Pro
+- https://github.com/faceair/vscode-ayu-onedark
+- https://github.com/teabyii/vscode-ayu
+- https://github.com/Binaryify/OneDark-Pro
