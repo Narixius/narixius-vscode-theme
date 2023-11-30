@@ -1,0 +1,29 @@
+{
+  "name": "narixius-vscode-theme",
+  "displayName": "narixius-vscode-theme",
+  "description": "Just another VSCode dark theme",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nariman Movaffaghi",
+    "url": "https://www.linkedin.com/in/narixius"
+  },
+  "repository": {
+    "url": "https://github.com/Narixius/narixius-vscode-theme.git",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Narixius",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Narixius-color-theme.json"
+      }
+    ]
+  }
+}
