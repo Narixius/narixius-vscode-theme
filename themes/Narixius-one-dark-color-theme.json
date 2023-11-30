@@ -117,7 +117,6 @@
 		"statusBarItem.prominentBackground": "#060d13",
 		"statusBarItem.prominentHoverBackground": "#00000030",
 		"activityBar.background": "#0f1419",
-		"activityBar.foreground": "#2e363c",
 		"activityBarBadge.background": "#2e363c",
 		"activityBarBadge.foreground": "#fff",
 		"sideBar.background": "#0f1419",
@@ -165,11 +164,14 @@
 		"terminal.border": "#3e4452",
 		"terminal.foreground": "#abb2bf",
 		"terminal.selectionBackground": "#abb2bf30",
-		"tab.activeBackground": "#abb2bf15",
 		"tab.border": "#abb2bf15",
 		"sideBar.foreground": "#5c5f64",
 		"button.background": "#4C79AD",
-		"button.hoverBackground": "#5A89BF"
+		"button.hoverBackground": "#5A89BF",
+		"activityBar.foreground": "#475259",
+		"activityBar.border": "#060D13",
+		"tab.activeBackground": "#172029",
+		"tab.hoverBackground": "#13191f",
 	},
 	"tokenColors": [
 		{
@@ -1652,5 +1654,34 @@
 				"foreground": "#e5c07b"
 			}
 		}
-	]
+	],
+	"hidesExplorerArrows": true,
+	"iconDefinitions": {
+		"_folder_dark": {
+			"iconPath": "./icons/folder_dark.svg"
+		},
+		"_folder_open_dark": {
+			"iconPath": "./icons/folder-open_dark.svg"
+		},
+		"_file_dark": {
+			"iconPath": "./icons/file_dark.svg"
+		},
+		"_folder_light": {
+			"iconPath": "./icons/folder_light.svg"
+		},
+		"_folder_open_light": {
+			"iconPath": "./icons/folder-open_light.svg"
+		},
+		"_file_light": {
+			"iconPath": "./icons/file_light.svg"
+		}
+	},
+	"folder": "_folder_dark",
+	"folderExpanded": "_folder_open_dark",
+	"file": "_file_dark",
+	"light": {
+		"folder": "_folder_light",
+		"folderExpanded": "_folder_open_light",
+		"file": "_file_light"
+	}
 }

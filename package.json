@@ -2,7 +2,7 @@
   "name": "narixius-vscode-theme",
   "displayName": "Narixius Theme",
   "description": "Just another VSCode dark theme",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "publisher": "narixius",
   "icon": "icons/narixius-theme.png",
   "scripts": {
@@ -23,6 +23,13 @@
     "Themes"
   ],
   "contributes": {
+    "iconThemes": [
+      {
+        "id": "Narixius icons",
+        "label": "Narixius Icons",
+        "path": "./themes/Narixius-theme-icons.json"
+      }
+    ],
     "themes": [
       {
         "label": "Narixius One Dark",
