@@ -2,7 +2,7 @@
   "name": "narixius-vscode-theme",
   "displayName": "Narixius Theme",
   "description": "Just another VSCode dark theme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "narixius",
   "icon": "narixius-theme.png",
   "scripts": {
