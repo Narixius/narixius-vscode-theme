@@ -112,7 +112,6 @@
     "activityBarBadge.background": "#2e363c",
     "activityBarBadge.foreground": "#fff",
     "sideBar.background": "#0f1419",
-    "sideBarSectionHeader.foreground": "#475259",
     "sideBarSectionHeader.background": "#0f1419",
     "titleBar.activeForeground": "#bfbab0",
     "titleBar.inactiveForeground": "#475259",
@@ -171,12 +170,12 @@
     "quickInputList.focusBackground": "#ffffff0e",
     "quickInputList.focusIconForeground": "#bbbcc1",
     "quickInputList.focusForeground": "#bbbcc1",
-    "input.border": "#fefefe",
     "input.placeholderForeground": "#fefefe39",
     "editorLineNumber.foreground": "#9d9ea07b",
     "editorLineNumber.activeForeground": "#b5b6b8",
     "editor.lineHighlightBackground": "#18202a",
-    "sideBarTitle.foreground": "#798288"
+    "sideBarTitle.foreground": "#798288",
+    "sideBarSectionHeader.foreground": "#798288"
   },
   "tokenColors": [
     {
