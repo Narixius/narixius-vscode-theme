@@ -131,7 +131,6 @@
     "gitDecoration.deletedResourceForeground": "#f29668BB",
     "gitDecoration.untrackedResourceForeground": "#c2d94cBB",
     "gitDecoration.submoduleResourceForeground": "#ffee99BB",
-    "gitDecoration.ignoredResourceForeground": "#2b3339",
     "terminal.background": "#0f1419",
     "terminal.ansiBlack": "#3f4451",
     "terminal.ansiBlue": "#4aa5f0",
@@ -176,7 +175,8 @@
     "sideBarTitle.foreground": "#798288",
     "sideBarSectionHeader.foreground": "#798288",
     "foreground": "#717781",
-    "descriptionForeground": "#717781"
+    "descriptionForeground": "#717781",
+    "gitDecoration.ignoredResourceForeground": "#42464A"
   },
   "tokenColors": [
     {
